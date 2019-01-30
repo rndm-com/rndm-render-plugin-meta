@@ -1,0 +1,19 @@
+{
+  "name": "@rndm/render-plugin-meta",
+  "version": "0.1.0",
+  "description": "RNDM Render Plugin: Meta. Meta data html editor for RNDM Render",
+  "author": "RNDM",
+  "license": "Apache-2.0",
+  "main": "src/index.js",
+  "homepage": "https://github.com/rndm-com/rndm-render-plugin-meta#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rndm-com/rndm-render-plugin-meta.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rndm-com/rndm-render-plugin-meta/issues"
+  },
+  "dependencies": {
+    "@rndm/meta": "^0.1.0"
+  }
+}

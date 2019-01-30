@@ -1,0 +1,14 @@
+{
+  "type": "meta.Meta",
+  "props": {
+    "meta": {
+      "title": "RNDM"
+    },
+    "children": {
+      "type": "react-native.Text",
+      "props": {
+        "children": "I have meta!"
+      }
+    }
+  }
+}
