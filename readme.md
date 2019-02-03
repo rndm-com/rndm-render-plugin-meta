@@ -1,14 +1,14 @@
-# RNDM Render Plugin: Meta
+# [RNDM](https://www.rndm.com) Render Plugin: Meta
 
 ## About
 
-This plugin provides meta data updating for the [RNDM Render package](https://github.com/rndm-com/rndm-render).
+This plugin provides meta data updating for the [RNDM Render package](https://www.rndm.com/docs/rndm-render).
 
 This wraps the [RNDM Meta](https://www.rndm.com/docs/utils/meta) package to allow a serialisable component that will update your pages meta tags.
 
 ## Installation
 
-If you have not already done so, then please ensure you have installed the [RNDM Render](https://github.com/rndm-com/rndm-render) and [RNDM Plugin: Core](https://github.com/rndm-com/rndm-render-plugin-core) package.
+If you have not already done so, then please ensure you have installed the [RNDM Render](https://www.rndm.com/docs/rndm-render) and [RNDM Plugin: Core](https://www.rndm.com/docs/rndm-render/plugin/core) package.
 
 ### From NPM
 
@@ -46,3 +46,5 @@ The Meta Plugin transforms the Meta component serialisable JSON or JavaScript Ob
         }
     }
 };
+
+Check out the [Playground](https://www.rndm.com/playground) page to see how these features work.
